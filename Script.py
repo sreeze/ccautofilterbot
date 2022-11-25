@@ -1,38 +1,31 @@
 class script(object):
-    START_TXT = """<b>Hello {} 👋🏻 Im a movie provider bot of @CinemaCompanyofficials I can share Movies and Series 😁.</b>
-    
-  𝙅𝙤𝙞𝙣 @CinemaCompanyOffiz
-
-○ Notice 📙:-
-
-○Dont Spam Me...🤒
-
-😎 Powered by @CinemaCompanyofficials
-
-©️ Maintained By @Tiyaan_bots
+    START_TXT = """<b>Hello {},\n
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 👋🏻 Im a movie provider bot of @CinemaCompanyofficials I can share Movies and Series 😍\n
+𝙅𝙤𝙞𝙣 @CinemaCompanyOfficials for Movie Updates\n
+🅝🅞🅣🅘🅒🅔 📙
+𝕯𝖔𝖓𝖙 𝕾𝖕𝖆𝖒 𝕸𝖊...🤒\n
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 @CinemaCompanyofficials\n
+𝗠𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗱 𝗕𝘆 @Tiyaan_bots\n
 """
-
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
-
-○ Notice 📙:-
-
-○Dont Spam Me...🤒
-
-😎 Powered by CinemaCompanyofficials
-
-©️ Maintained By @Tiyaan_bots"""
-
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=http://cinemacompany_manager_bot><b>Cinema Company 🎬</b></a>\n
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.\n
+🅝🅞🅣🅘🅒🅔 📙
+𝕯𝖔𝖓𝖙 𝕾𝖕𝖆𝖒 𝕸𝖊...🤒\n
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 @CinemaCompanyofficials\n
+𝗠𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗲𝗱 𝗕𝘆 @Tiyaan_bots
+"""
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/sreehari3><b></b>SH</a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : KOYEB\n
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CinemaCompanyOffiz><b></b>ᴜᴘᴅᴀᴛᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.0.7\n</b></i>"""
+🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.1.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
-» Contact Me @Tiyaan_SH<b>"""
+» Contact Me @Tiyaan_SH<b
+<b>DEVS:</b>
+- <a href=https://t.me/CinemaCompanyofficials>𝘾𝙞𝙣𝙚𝙢𝙖 𝘾𝙤𝙢𝙥𝙖𝙣𝙮</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
