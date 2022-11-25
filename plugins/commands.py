@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                 InlineKeyboardButton('🤖ᴜᴘᴅᴀᴛᴇ🤖', url='https://t.me/CinemaCompanyOffiz')
+                 InlineKeyboardButton('🤖 𝘾𝙧𝙚𝙖𝙩𝙤𝙧', url='https://t.me/Tiyaan_bots')
             ],
             [
-                InlineKeyboardButton('Join Movie Channel', url=f"https://t.me/CinemaCompanyMovie")
+                InlineKeyboardButton('𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url='https://t.me/CinemaCompanyOffiz')
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             
             InlineKeyboardButton('〽️ 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url='https://t.me/CinemaCompanyOffiz'),
-            InlineKeyboardButton('🎬 𝙈𝙤𝙫𝙞𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡', url='https://t.me/CinemaCompanyMovie')
+            InlineKeyboardButton('🎬 𝗠𝗮𝗶𝗻 𝗚𝗿𝗼𝘂𝗽', url='https://t.me/CinemaCompanyMovie')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('😊 𝙰𝚋𝚘𝚞𝚝', callback_data='about')
@@ -90,7 +90,7 @@ async def start(client, message):
             InlineKeyboardButton('♥️ Donation', callback_data='source')
         ],[
             InlineKeyboardButton('〽️ 𝙐𝙥𝙙𝙖𝙩𝙚𝙨', url='https://t.me/CinemaCompanyOffiz'),
-            InlineKeyboardButton('🎬 𝙈𝙤𝙫𝙞𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡', url='https://t.me/CinemaCompanyMovie')
+            InlineKeyboardButton('🎬 𝗠𝗮𝗶𝗻 𝗚𝗿𝗼𝘂𝗽', url='https://t.me/CinemaCompanyMovie')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('😊 𝙰𝚋𝚘𝚞𝚝', callback_data='about')
@@ -242,7 +242,7 @@ async def start(client, message):
     buttons = [
                     [
                         InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', callback_data='close_data'),
-                        InlineKeyboardButton('💞 sʜᴀʀᴇ', url='https://t.me/CinemaCompanyofficials')
+                        InlineKeyboardButton('💞 sʜᴀʀᴇ', url='https://t.me/share/url?url=CinemaCompany+Movie+Request+Group+%0D%0A+%0D%0A%F0%9F%91%87+%0D%0AWhatever+you+might+ask%2C+you+will+get..+%E2%9D%A4%EF%B8%8F+%0D%0A+%0D%0A%F0%9F%91%87+Join%0D%0A+https%3A%2F%2Ft.me%2CinemaCompanyOfficials')
                     ],
                     [
                         InlineKeyboardButton(text=f'🌿 Fɪʟᴇ sɪᴢᴇ 【 {size} 】🌿', callback_data='gxneo')
