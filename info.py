@@ -34,7 +34,7 @@ AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cinema")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Hollywood_files')
 
 #Port
 PORT = environ.get("PORT", "8080")
