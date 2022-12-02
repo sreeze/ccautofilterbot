@@ -20,7 +20,7 @@ class script(object):
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : KOYEB\n
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CinemaCompanyOffiz><b></b>ᴜᴘᴅᴀᴛᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.1.0\n</b></i>"""
+🌟 ᴠᴇʀsɪᴏɴ : ᴠ 1.0.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @Tiyaan_SH<b
